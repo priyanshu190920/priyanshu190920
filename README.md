@@ -43,7 +43,7 @@ Working across diverse large-scale environments has trained me to handle massive
 <a href="mailto:priyanshu.electrical@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://website-creator-pro--macos9para.replit.app/" target="_blank">
+<a href="https://priyanshu190920.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/My_Portfolio-FFDB70?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio"/>
 </a>
 
