@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Priyanshu Upadhyay
 
 <a href="https://github.com/priyanshu190920">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1500&color=FFDB70&width=600&lines=Architecting+Enterprise+Data+Solutions;Driving+Global+Digital+Transformation;Turning+Complex+Data+into+Strategic+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=FFDB70&width=800&lines=⚙️+Architecting+Enterprise+Data+Solutions;🚀+Driving+Global+Digital+Transformation;💡+Turning+Complex+Data+into+Strategic+Insights" alt="Typing SVG" />
 </a>
 
 ## 🔍 About Me
