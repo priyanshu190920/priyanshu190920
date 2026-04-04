@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Priyanshu Upadhyay
 
-### Systems & Data Engineer | 14+ Years Experience | Digital Transformation Expert
+<a href="https://github.com/priyanshu190920">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1500&color=FFDB70&width=600&lines=Architecting+Enterprise+Data+Solutions;Driving+Global+Digital+Transformation;Turning+Complex+Data+into+Strategic+Insights" alt="Typing SVG" />
+</a>
 
 ## 🔍 About Me
 I am a **Systems & Data Specialist** with over 14 years of experience driving digital transformation, architecting engineering systems, and automating enterprise reporting across €4.5B+ global megaprojects. 
@@ -25,7 +27,7 @@ Working across diverse large-scale environments has trained me to handle massive
 
 **Analytics & Visualization:** ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Semantic Modeling](https://img.shields.io/badge/Semantic%20Modeling-0078D4?style=for-the-badge&logo=databricks&logoColor=white)
 
 **Project Management & Enterprise Systems:** ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -43,7 +45,7 @@ Working across diverse large-scale environments has trained me to handle massive
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 <a href="https://website-creator-pro--macos9para.replit.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-212121?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/My_Portfolio-FFDB70?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio"/>
 </a>
 
 <br>
@@ -51,8 +53,12 @@ Working across diverse large-scale environments has trained me to handle massive
 
 ## 📊 GitHub Stats
 
-![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshu190920&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+*(Note: If your GitHub stats show up as broken, it means you need to create a few public repositories or push some commits so the API has data to read!)*
 
-<br>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu190920&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Priyanshu's GitHub stats" />
+</p>
 
-![Visitor Count](https://profile-counter.glitch.me/priyanshu190920/count.svg)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=priyanshu190920&label=Profile%20Views&color=FFDB70&style=flat" alt="Visitor Count" />
+</p>
