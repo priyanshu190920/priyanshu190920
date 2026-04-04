@@ -53,7 +53,7 @@ Working across diverse large-scale environments has trained me to handle massive
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu190920&show_icons=true&theme=tokyonight&hide_border=true" alt="Priyanshu's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu190920&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1" alt="Priyanshu's GitHub stats" />
 </p>
 
 <p align="left">
