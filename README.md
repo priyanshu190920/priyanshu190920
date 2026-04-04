@@ -17,10 +17,10 @@ Working across diverse large-scale environments has trained me to handle massive
 ## 🛠️ Tech Stack & Tools
 
 **Languages & Databases:** ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=3776AB)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Data Engineering & Cloud:** ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+**Data Engineering & Cloud:** ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-008272?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white)
 
@@ -44,7 +44,7 @@ Working across diverse large-scale environments has trained me to handle massive
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 <a href="https://priyanshu190920.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/My_Portfolio-FFDB70?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
 </a>
 
 <br>
@@ -61,5 +61,5 @@ Working across diverse large-scale environments has trained me to handle massive
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=priyanshu190920&label=Profile%20Views&color=FFDB70&style=flat" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=priyanshu190920&label=Profile%20Views&color=2E75B6&style=flat" alt="Visitor Count" />
 </p>
