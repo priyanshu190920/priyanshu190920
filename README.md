@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Priyanshu Upadhyay
 
-<a href="https://github.com/priyanshu190920">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=FFDB70&width=800&lines=⚙️+Architecting+Enterprise+Data+Solutions;🚀+Driving+Global+Digital+Transformation;💡+Turning+Complex+Data+into+Strategic+Insights" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=20&pause=1500&color=FFDB70&width=850&lines=%E2%9A%99%EF%B8%8F+Architecting+Enterprise+Data+Solutions;%F0%9F%9A%80+Driving+Global+Digital+Transformation;%F0%9F%92%A1+Turning+Complex+Data+into+Strategic+Insights)](https://github.com/priyanshu190920)
 </a>
 
 ## 🔍 About Me
@@ -53,10 +52,12 @@ Working across diverse large-scale environments has trained me to handle massive
 
 ## 📊 GitHub Stats
 
-*(Note: If your GitHub stats show up as broken, it means you need to create a few public repositories or push some commits so the API has data to read!)*
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu190920&show_icons=true&theme=tokyonight&hide_border=true" alt="Priyanshu's GitHub stats" />
+</p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu190920&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Priyanshu's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu190920&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="left">
