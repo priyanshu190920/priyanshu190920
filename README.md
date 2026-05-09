@@ -10,7 +10,7 @@ Working across diverse large-scale environments has trained me to handle massive
 
 * 📍 **Location:** Luleå, Sweden 🌍
 * 🔭 **Current Focus:** Architecting enterprise reporting solutions, ETL pipelines, and optimizing engineering workflows.
-* ⚡ **Core Strengths:** Microsoft Fabric, Power BI, SQL, Python, and Azure.
+* ⚡ **Core Strengths:** Microsoft Fabric, Power BI, SQL, Python, Azure and Advance Work Package (AWP).
 
 ---
 
