@@ -4,7 +4,7 @@
 </a>
 
 ## 🔍 About Me
-I am a **Systems & Data Specialist** with over 14 years of experience driving digital transformation, architecting engineering systems, and automating enterprise reporting across €4.5B+ global megaprojects. 
+I am a **Systems & Data Specialist** with over 14 years of experience driving digital transformation, Advance Work Package (AWP) implementation, architecting engineering systems, and automating enterprise reporting across €4.5B+ global megaprojects. 
 
 Working across diverse large-scale environments has trained me to handle massive datasets with accuracy, spot workflow inefficiencies, and translate complex engineering and operational data into actionable business intelligence. I aim to bridge the gap between complex multi-system inputs and high-level strategic decision-making.
 
